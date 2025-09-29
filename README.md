@@ -1,4 +1,6 @@
-
+# NAME: Abishek Priyan M
+# REG NO: 212224240004
+# EXP-2 Image Acquisition using Web Camera
 ## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
